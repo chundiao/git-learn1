@@ -16,3 +16,4 @@ hello git!
 0cb7fb6 (HEAD -> master) HEAD@{0}: commit (initial): new file: hello.txt
 
 hello git!
+我爱你
